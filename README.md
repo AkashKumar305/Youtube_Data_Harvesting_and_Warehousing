@@ -3,6 +3,9 @@
 
 This Python application, built with Streamlit, harvests data from the YouTube API, stores it in MongoDB, and warehouses it in a MySQL database. The app retrieves channel details, playlists, videos, and comments, providing a comprehensive view of YouTube content.
 
+![image](https://github.com/AkashKumar305/Youtube_Data_Harvesting_and_Warehousing/assets/72120829/4672ad10-58cc-4bfc-b1e3-f79cacad134d)
+
+
 ## Key Features
 
 - **YouTube Data Harvesting:** Retrieve detailed information about channels, playlists, videos, and comments using the YouTube API.
