@@ -15,10 +15,11 @@ This Python application, built with Streamlit, harvests data from the YouTube AP
 
 ## Getting Started
 
-1. **API Key:** Obtain a YouTube API key and provide it when prompted in the Streamlit app.
+1. **API Key:** Obtain a YouTube API key and insert it in the python file.
 2. **Channel ID:** Input the target YouTube channel ID in the app.
-3. **Harvest Data:** Click the "Harvest Data" button to initiate data retrieval and storage.
-4. **SQL Queries:** Explore and execute predefined SQL queries using the Streamlit app.
+3. **Harvest Data:** Click the "Harvest Data and Save to MongoDB" button to initiate data retrieval and storage.
+4. **Migrate Data:** Select a channel from the dropdown list and click the "Move Channel from MongoDB to MySQL" to migrate the data.
+5. **SQL Queries:** Explore and execute predefined SQL queries using the Streamlit app.
 
 ## Workflow Execution
 
