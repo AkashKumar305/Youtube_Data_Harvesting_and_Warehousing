@@ -31,8 +31,6 @@ This Python application, built with Streamlit, harvests data from the YouTube AP
 6. The results of the SQL queries are displayed within the Streamlit app as tables. Users can choose from a selection of queries, and the corresponding results are presented for analysis.
 7. Once the data harvesting, insertion, and analysis processes are complete, a success message is displayed in the Streamlit app.
 
-![video]()
-
 ## Prerequisites
 
 - Python
